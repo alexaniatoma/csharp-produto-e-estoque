@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "csharp-orientacao-ao-objetoEstoque/1.0.0": {
+        "runtime": {
+          "csharp-orientacao-ao-objetoEstoque.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp-orientacao-ao-objetoEstoque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Área de Trabalho\udemy-CSharp\csharp-orientacao-ao-objetoEstoque\bin\Debug\net8.0\csharp-orientacao-ao-objetoEstoque.exe
+C:\Users\alexa\OneDrive\Área de Trabalho\udemy-CSharp\csharp-orientacao-ao-objetoEstoque\bin\Debug\net8.0\csharp-orientacao-ao-objetoEstoque.deps.json
+C:\Users\alexa\OneDrive\Área de Trabalho\udemy-CSharp\csharp-orientacao-ao-objetoEstoque\bin\Debug\net8.0\csharp-orientacao-ao-objetoEstoque.runtimeconfig.json
+C:\Users\alexa\OneDrive\Área de Trabalho\udemy-CSharp\csharp-orientacao-ao-objetoEstoque\bin\Debug\net8.0\csharp-orientacao-ao-objetoEstoque.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\udemy-CSharp\csharp-orientacao-ao-objetoEstoque\bin\Debug\net8.0\csharp-orientacao-ao-objetoEstoque.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\udemy-CSharp\csharp-orientacao-ao-objetoEstoque\obj\Debug\net8.0\csharp-orientacao-ao-objetoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Área de Trabalho\udemy-CSharp\csharp-orientacao-ao-objetoEstoque\obj\Debug\net8.0\csharp-orientacao-ao-objetoEstoque.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\udemy-CSharp\csharp-orientacao-ao-objetoEstoque\obj\Debug\net8.0\csharp-orientacao-ao-objetoEstoque.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Área de Trabalho\udemy-CSharp\csharp-orientacao-ao-objetoEstoque\obj\Debug\net8.0\csharp-orientacao-ao-objetoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\udemy-CSharp\csharp-orientacao-ao-objetoEstoque\obj\Debug\net8.0\csharp-orientacao-ao-objetoEstoque.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\udemy-CSharp\csharp-orientacao-ao-objetoEstoque\obj\Debug\net8.0\refint\csharp-orientacao-ao-objetoEstoque.dll
+C:\Users\alexa\OneDrive\Área de Trabalho\udemy-CSharp\csharp-orientacao-ao-objetoEstoque\obj\Debug\net8.0\csharp-orientacao-ao-objetoEstoque.pdb
+C:\Users\alexa\OneDrive\Área de Trabalho\udemy-CSharp\csharp-orientacao-ao-objetoEstoque\obj\Debug\net8.0\csharp-orientacao-ao-objetoEstoque.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Área de Trabalho\udemy-CSharp\csharp-orientacao-ao-objetoEstoque\obj\Debug\net8.0\ref\csharp-orientacao-ao-objetoEstoque.dll
